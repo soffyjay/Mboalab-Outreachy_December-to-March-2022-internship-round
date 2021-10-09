@@ -18,7 +18,7 @@ _**Both individual or collective contributions to a particular task are welcomed
 
 ## Sending Contributions 
 
-Contributions can be sent after creating a folder highlighting contributor(s) name in the **[Applicant's Contribution]** folder which can be found in each task folder.
+Contributions can be sent after creating a folder highlighting contributor(s) name in the **[Applicant's Contributions]** folder which can be found in each task folder.
 - Please get in touch with a mentor to guide you through the process in case of any difficulty.
 
 ## Nature of Contributions
