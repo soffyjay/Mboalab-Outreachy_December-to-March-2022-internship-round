@@ -18,7 +18,7 @@ _**Both individual or collective contributions to a particular task are welcomed
 
 ## Sending Contributions 
 
-Contributions can be sent after creating a folder highlighting contributor(s) name in the [Applicant's Contribution] folder which can be found in each task folder. Please get in touch with a mentor to guide you through the process in case of any difficulty.
+Contributions can be sent after creating a folder highlighting contributor(s) name in the **[Applicant's Contribution]** folder which can be found in each task folder. **Please get in touch with a mentor to guide you through the process in case of any difficulty.**
 
 ## Nature of Contributions
 The nature of contributions varies greatly according to the selected task. In order to ensure a tailored and free contributions process, applicants are encouraged to use the guidelines provided in each task description to propose the best format for their contributions. Participants are therefore welcome and should feel free to propose, innovate and adjust their contributions according to their own understanding. Mentors will always be there to guide and frame received ideas.
