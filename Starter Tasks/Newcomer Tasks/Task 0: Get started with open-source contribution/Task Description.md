@@ -21,8 +21,7 @@ Good resources to get started with GitHub:
 - [GitHub Learning Lab](https://lab.github.com/)
 
 _Note that you do not need to be a master in VCS/Git/GitHub to start contributing. 
-Once you are comfortable with the basics, you can start contributing to open-source.
-_
+Once you are comfortable with the basics, you can start contributing to open-source._
 
 ## Main activities to complete: 
 - Create a GitHub account (if you don't already have one)
