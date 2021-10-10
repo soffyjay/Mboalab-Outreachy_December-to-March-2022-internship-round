@@ -4,7 +4,7 @@
 ## Personal info:
 ## Contact info:
 - Personal email: <thomasmboa@gmail.com>
-- GitHub profile:
+- GitHub profile: https://github.com/thomasmboa
 - Twitter profile: https://twitter.com/Mboathomas
 
 # Jafsia elisee
@@ -41,4 +41,3 @@ Stephane is currently the Executive Director of MboaLab and has close to two yea
 - GitHub profile: https://github.com/Fadanka
 - GitLab profile: https://gitlab.com/stephanefadanka
 - Twitter profile: https://twitter.com/StephaneFadanka
-- 
