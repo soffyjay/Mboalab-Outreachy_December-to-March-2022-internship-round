@@ -4,7 +4,7 @@
 In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants self-development over skill acquisition. 
 Both applicants with previous experience in open-source contributions and complete beginners are welcome to participate and contribute. 
 
-**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
+>**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
 
 ## How to contribute to the project?
 Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round) on GitHub. 
