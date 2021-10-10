@@ -25,7 +25,7 @@ We begin interactions by acknowledging that we are part of a community with comp
 Permission should be requested before privately contacting a fellow applicant or sending explicit messages. This is also applicable to sharing private discussions. 
 - Ask first.
 - We respect everyone’s right to walk away at any time.
-- If you see or experience a violation of consent, please contact the mentor in charge of your task or any of the other three mentors or get in touch with a community coordinator via [email](thomasmboa@gmail.com).
+- If you see or experience a violation of consent, please contact the mentor in charge of your task or any of the other three mentors or get in touch with a community coordinator via email at thomasmboa@gmail.com.
 >**NOTE:** Many forms of harassment do not look like physical or verbal abuse, but still fall into this category. Non-consent can include exhibiting sexual images in public spaces, deliberate intimidation, stalking, following, photography or recording without permission, sustained disruption of talks or conversations, and unwelcome sexual attention.
 ## D.	Work spaces
 All applicants should be involved in promoting open knowledge. All opinions matter! Open discussion allows the most promising ideas to come to the fore, and for decisions to be reached on a consensus basis. Communication platforms like Whatsapp group chats are for work-related conversation only. As such contents such as adverts or videos for entertainment are prohibited.
