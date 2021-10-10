@@ -1,4 +1,4 @@
-# Task 1: Designing a Logo for the Project
+# Task 1: Build an Opened Online plateform for the Project
 
 ## Objective: 
 
