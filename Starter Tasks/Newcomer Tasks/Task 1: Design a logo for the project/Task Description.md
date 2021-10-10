@@ -7,12 +7,12 @@ The brand of a project is paramount to deliver the message about its value and g
 Participants are welcome to use already mastered software and tools and are encouraged to try out [Open source designer tools](https://geekflare.com/open-source-designer-tools/) for this task.
 
 ## Adressed to:
->**This task is addressed to applicants with skills in graphic design and related competencies, desiring to get started with open-Source designer software and tools.
+>**This task is addressed to applicants with skills in graphic design and related competencies, desiring to get started with open-Source designer software and tools.**
 
 
 ## Main activities to complete: 
 - Collect relevant and contextualised information about the project to enalble the design of a Logo;
-- Design one or more logo proposition using preferd design software and tools. 
+- Design and propose one or more logo using preferd design software and tools. 
 
 
 ## Attributed Mentor:
