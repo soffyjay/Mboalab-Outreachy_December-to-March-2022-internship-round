@@ -1,4 +1,4 @@
-# List Of all project's Tasks
+# List of all project's Tasks
 
 ## A. Newcomers Tasks
 
