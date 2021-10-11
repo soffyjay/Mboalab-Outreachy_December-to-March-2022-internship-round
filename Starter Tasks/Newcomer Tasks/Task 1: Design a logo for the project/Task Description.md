@@ -16,4 +16,4 @@ Participants are welcome to use already mastered software and tools and are enco
 
 
 ## Attributed Mentor:
-Attributed mentor to get in touch with for this task is **...**
+Attributed mentor to get in touch with for this task is **Stephane Fadanka**
