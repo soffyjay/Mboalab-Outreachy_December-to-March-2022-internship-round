@@ -3,7 +3,7 @@
 ## Objective: 
 With this task, participants are invited to compile relevant infomation about the project and create content that will be share through the project's online platform. 
 Content include blog notes, articles, project description and any other relevant document deemed useful by the applicant. 
-Is also a great opportunity to make your own participation and experience a source of inspiration for others. 
+It is also a great opportunity to make your own participation and experience a source of inspiration for others. 
 
 ## Tools and Skills: 
 - **Editing skills:** Every piece of writing needs to be polished through editing before it can come out great. Even for great writers, it’s rare to have a perfect copy at the first try.
