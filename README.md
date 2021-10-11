@@ -15,4 +15,4 @@ Applicants can contribute to this project through the [project repository](https
 ## Mentor attribution: 
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
 Information about the assigned mentor can be found in the task’s descriptions.
-Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/blob/62308510703180930f58356464ea256f13ec01ec/Meet%20the%20Mentors/Mboalab%20Community%20Mentors.md). See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/tree/main/Meet%20the%20Mentors)
+Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/blob/main/Meet%20the%20Mentors/Mboalab%20Community%20Mentors.md). See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/tree/main/Meet%20the%20Mentors)
