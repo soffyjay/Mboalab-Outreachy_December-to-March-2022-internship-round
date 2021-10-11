@@ -10,7 +10,7 @@ Applicants are invited to choose and propose the best data collection tool of th
 - The tool should take into account local and context specificties (Language, access to specific resources etc..);
 - The developpe tool can take many forms examples include : Surveys, Questionaire, Interviews, online plateform or programs. 
 
-> # **Note:** The focus of the task is just to design the tool. Applicants are not expected to deploy and use the tool (e.g.: find participants for a developped survey or carry out an actual interview with them).  
+> ## **Note:** The focus of the task is just to design the tool. Applicants are not expected to deploy and use the tool (e.g.: find participants for a developped survey or carry out an actual interview with them).  
 
 
 ## Tools and Skills: 
