@@ -1,7 +1,7 @@
 # Task 4: Create content for the project's online plateform
 
 ## Objective: 
-With this task, participants are invited to create compile relevant infomation about the project and create content that will be share through the project's online platform. 
+With this task, participants are invited to compile relevant infomation about the project and create content that will be share through the project's online platform. 
 Content include blog notes, articles, project description and any other relevant document deemed useful by the applicant. 
 Is also a great opportunity to make your own participation and experience a source of inspiration for others. 
 
@@ -22,4 +22,4 @@ Is also a great opportunity to make your own participation and experience a sour
 
 
 ## Attributed Mentor:
-Attributed mentor to get in touch with for this task is **Thomas?**
+Attributed mentor to get in touch with for this task is ****
