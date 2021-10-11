@@ -19,4 +19,4 @@ Good communication with general public and stakeholders will ensure there is an 
 - Gather feedbacks about the platform from community.
 
 ## Attributed Mentor:
-Attributed mentor to get in touch with for this task is **...**
+Attributed mentor to get in touch with for this task is **JAFSIA Elisee**
