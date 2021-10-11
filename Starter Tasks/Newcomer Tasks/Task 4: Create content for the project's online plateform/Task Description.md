@@ -22,4 +22,4 @@ Is also a great opportunity to make your own participation and experience a sour
 
 
 ## Attributed Mentor:
-Attributed mentor to get in touch with for this task is ****
+Attributed mentor to get in touch with for this task is **Stephane Fadanka**
